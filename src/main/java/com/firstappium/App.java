@@ -15,7 +15,6 @@ import java.net.URL;
  */
 public class App 
 {       
-    static  WebDriver driver;
     public static void main( String[] args )
     {
         try {
